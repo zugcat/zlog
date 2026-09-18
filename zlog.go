@@ -22,3 +22,5 @@
 //		}
 //	}
 package zlog
+
+//go:generate go run cloudeng.io/go/cmd/gomarkdown --overwrite .
